@@ -1,9 +1,12 @@
 # Automation-Developer-Professional-Training
 
+<<<<<<< HEAD
 <div align="center">
     <img src="https://staticcontent.cdn.contentraven.com/crcloud/thumbnailchannel/15358/1710759472624.png" alt="My Project Logo"/>
 </div>
 
+=======
+>>>>>>> fd97a4a (simple message)
 ## Overview
 Welcome to my repository for documenting all the exercises and projects from the **UiPath Automation Developer Professional Training**. This repository is organized to reflect the learning path provided by UiPath Academy, covering all three levels: **Explorer**, **Associate**, and **Professional**.
 
@@ -14,9 +17,15 @@ Each folder contains detailed exercises and projects from the respective modules
 ## Repository Structure
 
 The repository is organized into three main sections, following the UiPath Academy’s learning plan:
+<<<<<<< HEAD
 - **[Automation Explorer](./Automation%20Explorer/)**
 - **[Automation Developer Associate](./Automation%20Developer%20Associate/)**
 - **[Automation Developer Professional](./Automation%20Developer%20Professional/)**
+=======
+- **[Automation Explorer](./Explorer_Level/Module_1_Intro_RPA/)**
+- **[Automation Developer Associate](./Explorer_Level/Module_2_Basic_Automation/)**
+- **[Automation Developer Professional](./Explorer_Level/Module_3_Data_Manipulation_UI_Automation/)**
+>>>>>>> fd97a4a (simple message)
 
 ### Automation Explorer
 This section covers the foundational concepts of RPA and simple automation scenarios. It includes introductory projects on UiPath Studio, basic data manipulation, and UI automation.
@@ -25,6 +34,10 @@ This section covers the foundational concepts of RPA and simple automation scena
 - **[Module 2: Basic Automation Concepts](./Explorer_Level/Module_2_Basic_Automation/)**
 - **[Module 3: Basic Data Manipulation and UI Automation](./Explorer_Level/Module_3_Data_Manipulation_UI_Automation/)**
 
+<<<<<<< HEAD
+=======
+[Explore Explorer Level Projects](./Explorer_Level/)
+>>>>>>> fd97a4a (simple message)
 
 ---
 
@@ -35,6 +48,10 @@ The Associate level dives deeper into RPA concepts, introducing control flow, da
 - **[Module 2: Data Scraping and Web Automation](./Associate_Level/Module_2_Data_Scraping_Web_Automation/)**
 - **[Module 3: Intermediate Excel and File Automation](./Associate_Level/Module_3_Excel_File_Automation/)**
 
+<<<<<<< HEAD
+=======
+[Explore Associate Level Projects](./Associate_Level/)
+>>>>>>> fd97a4a (simple message)
 
 ---
 
@@ -45,6 +62,10 @@ The Professional level covers advanced concepts such as ReFramework, orchestrato
 - **[Module 2: ReFramework Deep Dive](./Professional_Level/Module_2_ReFramework_Deep_Dive/)**
 - **[Module 3: Orchestrator and Advanced Orchestration](./Professional_Level/Module_3_Orchestrator_Advanced_Orchestration/)**
 
+<<<<<<< HEAD
+=======
+[Explore Professional Level Projects](./Professional_Level/)
+>>>>>>> fd97a4a (simple message)
 
 ---
 
