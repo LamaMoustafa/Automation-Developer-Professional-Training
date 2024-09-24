@@ -1,5 +1,9 @@
 # Automation-Developer-Professional-Training
 
+<div align="center">
+    <img src="https://staticcontent.cdn.contentraven.com/crcloud/thumbnailchannel/15358/1710759472624.png" alt="My Project Logo"/>
+</div>
+
 ## Overview
 Welcome to my repository for documenting all the exercises and projects from the **UiPath Automation Developer Professional Training**. This repository is organized to reflect the learning path provided by UiPath Academy, covering all three levels: **Explorer**, **Associate**, and **Professional**.
 
