@@ -11,7 +11,14 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "InvoiceDate&Sequence_2",
+        "InvoiceTotal&Sequence_2",
+        "extractedTextAfterTheSeparator&Sequence_1",
+        "PdfOutput&Sequence_1",
+        "dt_DataTable&Sequence_1",
+        "FolderPath&Sequence_1"
+      ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
