@@ -102,7 +102,7 @@
       <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="Reads employee data from an Excel file, opens a browser window, navigates to the RPA Challenge Website, clicks on the &quot;Start&quot; button and enters the employee data into the RPA Challenge forms. &#xA;&#xA;Disclaimer: This workflow is created for demonstration purposes. " DisplayName="Sequence for debugging" sap:VirtualizedContainerService.HintSize="688,2124.8" sap2010:WorkflowViewState.IdRef="Sequence_3">
+  <Sequence sap2010:Annotation.AnnotationText="Reads employee data from an Excel file, opens a browser window, navigates to the RPA Challenge Website, clicks on the &quot;Start&quot; button and enters the employee data into the RPA Challenge forms. &#xA;&#xA;Disclaimer: This workflow is created for demonstration purposes." DisplayName="Sequence for debugging" sap:VirtualizedContainerService.HintSize="688,2124.8" sap2010:WorkflowViewState.IdRef="Sequence_3">
     <Sequence.Variables>
       <Variable x:TypeArguments="sd:DataTable" Name="dt_Users" />
     </Sequence.Variables>
@@ -112,7 +112,7 @@
         <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ueab:ExcelProcessScopeX DisplayAlerts="{x:Null}" ExistingProcessAction="{x:Null}" FileConflictResolution="{x:Null}" LaunchMethod="{x:Null}" LaunchTimeout="{x:Null}" MacroSettings="{x:Null}" ProcessMode="{x:Null}" ShowExcelWindow="{x:Null}" sap2010:Annotation.AnnotationText="Read an Excel File and store its data in a DataTable" DisplayName="Excel Process Scope for UsersDetails.xlsx" sap:VirtualizedContainerService.HintSize="625.6,620" sap2010:WorkflowViewState.IdRef="ExcelProcessScopeX_1">
+    <ueab:ExcelProcessScopeX DisplayAlerts="{x:Null}" ExistingProcessAction="{x:Null}" FileConflictResolution="{x:Null}" LaunchMethod="{x:Null}" LaunchTimeout="{x:Null}" MacroSettings="{x:Null}" ProcessMode="{x:Null}" ShowExcelWindow="{x:Null}" sap2010:Annotation.AnnotationText="Read an Excel File and store its data in a DataTable." DisplayName="Excel Process Scope for UsersDetails.xlsx" sap:VirtualizedContainerService.HintSize="625.6,620" sap2010:WorkflowViewState.IdRef="ExcelProcessScopeX_1">
       <ueab:ExcelProcessScopeX.Body>
         <ActivityAction x:TypeArguments="ui:IExcelProcess">
           <ActivityAction.Argument>
